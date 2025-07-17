@@ -21,8 +21,9 @@ You can find the corresponding OSF project [here](https://osf.io/cxetp/) .
 
 ## 📝 License
 
-All materials in this repository are currently shared **without a formal license**.  
-If you would like to reuse, adapt, or build upon the contents, please contact the project lead.
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the materials for any purpose, even commercially, as long as appropriate credit is given.
+
 
 ## 📬 Contact
 
