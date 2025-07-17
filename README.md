@@ -17,7 +17,7 @@ This repository supports the open research project **"Embodying Explanatory Mode
 
 ## 🌐 Related OSF Project
 
-You can find the corresponding OSF project [here](https://osf.io/XXXXXX) (link placeholder).
+You can find the corresponding OSF project [here](https://osf.io/cxetp/) (link placeholder).
 
 ## 📝 License
 
