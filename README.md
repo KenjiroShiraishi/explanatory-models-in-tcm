@@ -13,7 +13,7 @@ This repository supports the open research project **"Embodying Explanatory Mode
 - Clinical protocol (under development)
 - Patient and clinician surveys (Likert + open-ended)
 - Thematic analysis scripts (forthcoming)
-- Visual frameworks such as the **Three Domains Model** (`figures/ThreeDomainsModel.pdf`)
+- Visual frameworks such as the **Three Domains Model**  [here](https://github.com/KenjiroShiraishi/explanatory-models-in-tcm/blob/main/Three%20Domains%20Model.pdf) (link placeholder).
 
 ## 🌐 Related OSF Project
 
