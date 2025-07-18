@@ -7,7 +7,7 @@ This folder contains original materials used in the implementation and evaluatio
 - Japanese version of the patient questionnaire  https://github.com/KenjiroShiraishi/explanatory-models-in-tcm/blob/main/PatientSurvey_JP.pdf
 - English version of the patient questionnaire  https://github.com/KenjiroShiraishi/explanatory-models-in-tcm/blob/main/PatientSurvey_EN.pdf
 - (Optional) Posters, handouts, or workflow templates used in clinical explanation  
-- Any other tools, forms, or supporting materials relevant to the project Three Domains Model https://github.com/KenjiroShiraishi/explanatory-models-in-tcm/blob/main/ThreeDomainsModel.pdf
+- Any other tools, forms, or supporting materials relevant to the project (1)Three Domains Model https://github.com/KenjiroShiraishi/explanatory-models-in-tcm/blob/main/ThreeDomainsModel.pdf
   
 
 ## 🧭 Purpose
