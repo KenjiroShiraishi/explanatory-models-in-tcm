@@ -18,7 +18,7 @@ The aim of this protocol is twofold:
 
 - Format: Paper-based, handwritten questionnaire.
 - Timing: Administered after the clinical session in which a TCM narrative explanation is provided.
-- Estimated response time: 5–10 minutes.
+- Estimated response time: 3-5 minutes.
 - Anonymity: No personally identifying information is collected.
 
 ## Example Questions
