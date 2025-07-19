@@ -24,6 +24,15 @@ You can find the corresponding OSF project [here](https://osf.io/cxetp/).
 This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt the materials for any purpose, even commercially, as long as appropriate credit is given.
 
+## 🌱 Background Inspiration
+
+The initial idea for this project was first shared in a public blog post written in Japanese:
+👉 [Why We Need a Narrative When There's No Diagnosis (Blog post)](https://jikotiryousoudan.com/tanashi/blog/14802/)
+
+This blog introduces the practical and emotional context in which patients often struggle with anxiety in the absence of a clear diagnosis. It outlines how traditional narrative frameworks—especially from East Asian medicine—can offer a structured and compassionate explanation that restores meaning.
+
+The project documented here builds upon that real-world clinical insight.
+
 ## 📬 Contact
 
 **Kenjiro Shiraishi**  
