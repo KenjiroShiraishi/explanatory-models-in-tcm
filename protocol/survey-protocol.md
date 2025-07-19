@@ -11,7 +11,7 @@ The aim of this protocol is twofold:
 
 ## Target Participants
 
-- Adults who have experienced distress or anxiety due to undiagnosed symptoms.
+- Person who have experienced distress or anxiety due to undiagnosed symptoms.
 - Patients who received an explanatory narrative based on Traditional Chinese Medicine (TCM) frameworks during their clinical visit.
 
 ## Survey Method
