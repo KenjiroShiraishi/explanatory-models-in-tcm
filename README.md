@@ -48,6 +48,14 @@ The project documented here builds upon that real-world clinical insight.
 
 ---
 
+🚧 Project Status: In Preparation
+
+This project is currently under development. Once launched, participation will be open to collaborators and contributors interested in narrative-based care and traditional medicine frameworks.
+
+We are actively working on protocols, survey instruments, and explanatory tools. If you have questions or would like to express interest in joining the project, please feel free to contact us.
+
+---
+
 ## 📬 Contact
 
 **Kenjiro Shiraishi**  
