@@ -48,7 +48,7 @@ The project documented here builds upon that real-world clinical insight.
 
 ---
 
-🚧 Project Status: In Preparation
+## 🚧 Project Status: In Preparation
 
 This project is currently under development. Once launched, participation will be open to collaborators and contributors interested in narrative-based care and traditional medicine frameworks.
 
